@@ -15,4 +15,6 @@ nav{
 
 nav h2{
   font-family: var( --fontLogo);
+  font-size: 40px;
+  font-stretch: 20px;
 }
